@@ -1,5 +1,3 @@
 # card-practice
 Practing layout and responsive design by creating a stats preview-card component.  Source @https://www.frontendmentor.io
-
-
-Here, I'll be adding the HTML base for this project before the CSS.
+I'll start with an HTML base and then add the CSS on top. Finally, I'll make the site responsive for mobile by implementing media queries at around 600px of width. 
