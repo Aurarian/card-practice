@@ -35,25 +35,7 @@
       }
     </style>
     
-  </head>
-  <body>
-    
-     <div class="main-container">
-      <div class="left-cont">
-        <h1>
-          Get <span class="hi-lite">insights</span> that help your business
-          grow.
-        </h1>
-        <p>
-          Discover the benefits of data analytics and make better decisions
-          regarding revenue, customer experience, and overall efficiency.
-        </p>
-        <span class="card_stats">10k+ companies</span>
-        <span class="card_stats">314 templates</span>
-        <span class="card_stats">12m+ queries</span>
-      </div>
-      <img src="images/image-header-desktop.jpg" alt="businesswomen working" />
-    </div>
+<span class="card_stats">
 
     <div class="attribution">
       Challenge by
