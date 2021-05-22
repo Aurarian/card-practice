@@ -35,8 +35,22 @@
       }
     </style>
     
-<span class="card_stats">
-
+ <div class="main-container">
+      <div class="left-cont">
+        <h1>
+          Get <span class="hi-lite">insights</span> that help your business
+          grow.
+        </h1>
+        <p>
+          Discover the benefits of data analytics and make better decisions
+          regarding revenue, customer experience, and overall efficiency.
+        </p>
+        <h2>10k+ <span class="card_stats">companies</span></h2>
+        <h2>314 <span class="card_stats">templates</span></h2>
+        <h2>12m+<span class="card_stats">queries</span></h2>
+      </div>
+      <img src="images/image-header-desktop.jpg" alt="businesswomen working" />
+    </div>
     <div class="attribution">
       Challenge by
       <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
